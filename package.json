@@ -1,0 +1,15 @@
+{
+  "name": "ticket-suporte",
+  "version": "1.0.0",
+  "description": "API de gerenciamento de tickets de suporte",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "author": "Isabella Guimarães",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "dayjs": "^1.11.21"
+  }
+}
