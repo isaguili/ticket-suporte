@@ -1,0 +1,23 @@
+{
+  "tickets": [
+    {
+      "id": "d9a4c809-b8d3-4bff-9abd-8322a2878a7d",
+      "equipment": "Mouse",
+      "description": "Fio arrebentado.",
+      "user_name": "Isabella",
+      "status": "open",
+      "create_at": "2026-06-18T22:25:00.078Z",
+      "updated_at": "2026-06-18T22:25:00.078Z"
+    },
+    {
+      "id": "2248c7fc-ac66-4ec0-9aab-ae19cf26f499",
+      "equipment": "CPU",
+      "description": "Está muito barulhenta.",
+      "user_name": "Giovana",
+      "status": "closed",
+      "create_at": "2026-06-20T22:18:16.512Z",
+      "updated_at": "2026-06-20T22:18:16.512Z",
+      "solution": "O equipamento foi trocado."
+    }
+  ]
+}
